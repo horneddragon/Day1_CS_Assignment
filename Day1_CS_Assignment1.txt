@@ -1,0 +1,8 @@
+﻿Build started...
+1>------ Build started: Project: Day1_CS_Assignment, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\Anirudha_P\source\repos\Day1_CS_Assignment\Day1_CS_Assignment\Program.cs(13,17,13,18): warning CS0168: The variable 'i' is declared but never used
+1>C:\Users\Anirudha_P\source\repos\Day1_CS_Assignment\Day1_CS_Assignment\Program.cs(13,25,13,35): warning CS0168: The variable 'word_count' is declared but never used
+1>Day1_CS_Assignment -> C:\Users\Anirudha_P\source\repos\Day1_CS_Assignment\Day1_CS_Assignment\bin\Debug\net6.0\Day1_CS_Assignment.dll
+1>Done building project "Day1_CS_Assignment.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
